@@ -18,4 +18,4 @@
 - [[GeneralNotes/Autism research - UNIGE\|Autism research - UNIGE]]
 
 
-## [[List of all papers\|List of all papers]]
+## [[GeneralNotes/List of all papers\|List of all papers]]
