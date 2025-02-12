@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/general-notes/autism-research/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/general-notes/autism-research/"}
 ---
 
 

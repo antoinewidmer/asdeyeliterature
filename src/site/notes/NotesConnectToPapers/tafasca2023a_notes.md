@@ -1,47 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/tafasca2023a/","title":"The AI4Autism Project A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification"}
+{"dg-publish":true,"permalink":"/notes-connect-to-papers/tafasca2023a-notes/"}
 ---
-
-
-## The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification
-
-> [!Cite]
-> Tafasca, S., Gupta, A., Kojovic, N., Gelsomini, M., Maillart, T., Papandrea, M., Schaer, M., & Odobez, J.-M. (2023). The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification. _Companion Publication of the 25th International Conference on Multimodal Interaction_, 414–425. [https://doi.org/10.1145/3610661.3616239](https://doi.org/10.1145/3610661.3616239)
-
-
->[!md]
-> **Year**:: 2023   
-> **Citekey**:: tafasca2023a  
-> **itemType**:: conferencePaper  
-> **Publisher**:: Association for Computing Machinery  
-> **Location**:: New York, NY, USA   
-> **Pages**:: 414–425  
-> **DOI**:: 10.1145/3610661.3616239  
-> **ISBN**:: 979-8-4007-0321-8    
-
-> [!LINK] 
-> [2023_Tafasca et al._The AI4Autism Project A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratific.pdf](zotero://select/library/items/TMN42AAH)
-
-> [!Abstract]
->
-> Nowadays, 1 in 36 children is diagnosed with autism spectrum disorder (ASD) according to the Centers for Disease Control and Prevention (CDC) [52], which makes this condition one of the most prevalent neurodevelopmental disorders. For children on the autism spectrum who face substantial developmental delays, the trajectory of their cognitive growth can be markedly improved by interventions if the condition is identified early. Therefore, there is a critical need for more scalable screening and diagnostic tools, as well as the need to improve phenotyping to refine estimates of ASD symptoms in children. Here, we introduce AI4Autism: a 4-year project funded by the Swiss National Science Foundation, which aims to address the needs outlined above. In this project, we examine the potential of digital sensing to provide automated measures of the extended autism phenotype. This is accomplished using multimodal techniques based on computer vision and Internet of Things sensing, for the purpose of stratifying autism subtypes in ways that would allow for precision medicine. We present an overview of our main results so far, introducing datasets and annotations that we intend to make publicly available, as well as methods and algorithms for analyzing children’s behaviors and producing an ASD diagnosis.
->.
-> 
-
-
-## Notes
-
-| File                                                               | file.name          |
-| ------------------------------------------------------------------ | ------------------ |
-| [[NotesConnectToPapers/tafasca2023a_notes\|tafasca2023a_notes]] | tafasca2023a_notes |
-
-{ .block-language-dataview}
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/notes-connect-to-papers/tafasca2023a-notes/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 # The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification
 
@@ -225,29 +184,3 @@
 ⚠ **Before clinical adoption, external validation, longitudinal tracking, and interpretability improvements are required**.  
 🚀 **Future work should focus on deploying models in diverse, uncontrolled environments**.
 
-
-
-</div></div>
-
-
-## Figures
-
-**Imported: 2025-02-12**
-
-> ![Images/tafasca2023a/image-2-x57-y595.png](/img/user/Images/tafasca2023a/image-2-x57-y595.png)
-
-> ![Images/tafasca2023a/image-4-x55-y406.png](/img/user/Images/tafasca2023a/image-4-x55-y406.png)
-
-> ![Images/tafasca2023a/image-5-x312-y438.png](/img/user/Images/tafasca2023a/image-5-x312-y438.png)
-
-> ![Images/tafasca2023a/image-6-x312-y401.png](/img/user/Images/tafasca2023a/image-6-x312-y401.png)
-
-> ![Images/tafasca2023a/image-7-x52-y454.png](/img/user/Images/tafasca2023a/image-7-x52-y454.png)
-
-> ![Images/tafasca2023a/image-7-x52-y349.png](/img/user/Images/tafasca2023a/image-7-x52-y349.png)
-
-> ![Images/tafasca2023a/image-7-x317-y570.png](/img/user/Images/tafasca2023a/image-7-x317-y570.png)
-
-> ![Images/tafasca2023a/image-7-x316-y479.png](/img/user/Images/tafasca2023a/image-7-x316-y479.png)
-
-> ![Images/tafasca2023a/image-8-x53-y580.png](/img/user/Images/tafasca2023a/image-8-x53-y580.png)
