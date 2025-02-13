@@ -9,7 +9,7 @@
 - [[GeneralNotes/General Eye Movements\|General Eye Movements]]
 - [[GeneralNotes/Eye tracking systems\|Eye tracking systems]]
 - [[GeneralNotes/Studied Eye movements\|Studied Eye movements]]
-- [[GeneralNotes/Summary\|Summary]]
+- [[GeneralNotes/Articles using Eye-Tracking in ASD Detection\|Articles using Eye-Tracking in ASD Detection]]
 
 ## Autism research
 
