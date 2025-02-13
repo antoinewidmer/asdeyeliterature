@@ -1,44 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/ko2023/","title":"Development and Validation of a Joint Attention-Based Deep Learning System for Detection and Symptom Severity Assessment of Autism Spectrum Disorder","tags":["Autism","Spectrum","Disorder","Autistic","Disorder","Child","Humans","Deep","Learning","Female","Male","Middle","Aged"]}
+{"dg-publish":true,"permalink":"/notes-connect-to-papers/ko2023-notes/"}
 ---
-
-
-## Development and Validation of a Joint Attention-Based Deep Learning System for Detection and Symptom Severity Assessment of Autism Spectrum Disorder
-
-> [!Cite]
-> Ko, C., Lim, J.-H., Hong, J., Hong, S.-B., & Park, Y. R. (2023). Development and Validation of a Joint Attention-Based Deep Learning System for Detection and Symptom Severity Assessment of Autism Spectrum Disorder. _JAMA Network Open_, _6_(5), e2315174. [https://doi.org/10.1001/jamanetworkopen.2023.15174](https://doi.org/10.1001/jamanetworkopen.2023.15174)
-
-
->[!md]
-> **Year**:: 2023   
-> **Citekey**:: ko2023  
-> **itemType**:: journalArticle  
-> **Journal**:: *JAMA network open*  
-> **Volume**:: 6  
-> **Issue**:: 5   
-> **Pages**:: e2315174  
-> **DOI**:: 10.1001/jamanetworkopen.2023.15174    
-
-> [!LINK] 
-> [2023_Ko et al._Development and Validation of a Joint Attention-Based Deep Learning System for Detection and Symptom.pdf](zotero://select/library/items/57QFPQZ5)
-
-> [!Abstract]
->
-> IMPORTANCE: Joint attention, composed of complex behaviors, is an early-emerging social function that is deficient in children with autism spectrum disorder (ASD). Currently, no methods are available for objectively quantifying joint attention.
-OBJECTIVE: To train deep learning (DL) models to distinguish ASD from typical development (TD) and to differentiate ASD symptom severities using video data of joint attention behaviors.
-DESIGN, SETTING, AND PARTICIPANTS: In this diagnostic study, joint attention tasks were administered to children with and without ASD, and video data were collected from multiple institutions from August 5, 2021, to July 18, 2022. Of 110 children, 95 (86.4%) completed study measures. Enrollment criteria were 24 to 72 months of age and ability to sit with no history of visual or auditory deficits.
-EXPOSURES: Children were screened using the Childhood Autism Rating Scale. Forty-five children were diagnosed with ASD. Three types of joint attention were assessed using a specific protocol.
-MAIN OUTCOMES AND MEASURES: Correctly distinguishing ASD from TD and different levels of ASD symptom severity using the DL model area under the receiver operating characteristic curve (AUROC), accuracy, precision, and recall.
-RESULTS: The analytical population consisted of 45 children with ASD (mean [SD] age, 48.0 [13.4] months; 24 [53.3%] boys) vs 50 with TD (mean [SD] age, 47.9 [12.5] months; 27 [54.0%] boys). The DL ASD vs TD models showed good predictive performance for initiation of joint attention (IJA) (AUROC, 99.6% [95% CI, 99.4%-99.7%]; accuracy, 97.6% [95% CI, 97.1%-98.1%]; precision, 95.5% [95% CI, 94.4%-96.5%]; and recall, 99.2% [95% CI, 98.7%-99.6%]), low-level response to joint attention (RJA) (AUROC, 99.8% [95% CI, 99.6%-99.9%]; accuracy, 98.8% [95% CI, 98.4%-99.2%]; precision, 98.9% [95% CI, 98.3%-99.4%]; and recall, 99.1% [95% CI, 98.6%-99.5%]), and high-level RJA (AUROC, 99.5% [95% CI, 99.2%-99.8%]; accuracy, 98.4% [95% CI, 97.9%-98.9%]; precision, 98.8% [95% CI, 98.2%-99.4%]; and recall, 98.6% [95% CI, 97.9%-99.2%]). The DL-based ASD symptom severity models showed reasonable predictive performance for IJA (AUROC, 90.3% [95% CI, 88.8%-91.8%]; accuracy, 84.8% [95% CI, 82.3%-87.2%]; precision, 76.2% [95% CI, 72.9%-79.6%]; and recall, 84.8% [95% CI, 82.3%-87.2%]), low-level RJA (AUROC, 84.4% [95% CI, 82.0%-86.7%]; accuracy, 78.4% [95% CI, 75.0%-81.7%]; precision, 74.7% [95% CI, 70.4%-78.8%]; and recall, 78.4% [95% CI, 75.0%-81.7%]), and high-level RJA (AUROC, 84.2% [95% CI, 81.8%-86.6%]; accuracy, 81.0% [95% CI, 77.3%-84.4%]; precision, 68.6% [95% CI, 63.8%-73.6%]; and recall, 81.0% [95% CI, 77.3%-84.4%]).
-CONCLUSIONS AND RELEVANCE: In this diagnostic study, DL models for identifying ASD and differentiating levels of ASD symptom severity were developed and the premises for DL-based predictions were visualized. The findings suggest that this method may allow digital measurement of joint attention; however, follow-up studies are necessary for further validation.
->.
-> 
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/notes-connect-to-papers/ko2023-notes/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 
 ### 📌 Summary
@@ -206,5 +168,3 @@ CONCLUSIONS AND RELEVANCE: In this diagnostic study, DL models for identifying A
 ✅ **Demonstrates strong potential for AI-based ASD screening**.  
 ⚠ **Requires real-world validation, external testing, and comparison with clinical tools**.  
 🚀 **Future work should explore deployment in diverse, everyday settings**.
-
-</div></div>

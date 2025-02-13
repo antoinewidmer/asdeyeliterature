@@ -16,7 +16,7 @@
 - [[GeneralNotes/ASD papers\|ASD papers]]
 - [[GeneralNotes/Summary of Participant Characteristics\|Summary of Participant Characteristics]]
 
-- [[GeneralNotes/Female Biais\|Female Biais]]
+- [[GeneralNotes/Female Detection Bias\|Female Detection Bias]]
 
 
 
