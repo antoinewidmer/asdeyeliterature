@@ -19,6 +19,7 @@
 - [[GeneralNotes/Female Detection Bias\|Female Detection Bias]]
 
 
+### other research groups
 
 - [[GeneralNotes/Autism research - Duke\|Autism research - Duke]]
 - [[GeneralNotes/Autism research - IDIAP\|Autism research - IDIAP]]
