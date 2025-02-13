@@ -16,12 +16,12 @@
 
 The study included **37 participants**, with a mix of **children with Autism Spectrum Disorder (ASD) and typically developing (TD) children**. Below are the key details about the participants:
 
-- **23 children with ASD**
-    - **Mean age:** 6.05 years (± 0.96)
-    - **Number of girls:** 4
-- **14 typically developing (TD) children**
-    - **Mean age:** 6.96 years (± 0.78)
-    - **Number of girls:** 3
+
+| Characteristic            | ASD Group (n=23) | TD Group (n=14) |
+|--------------------------|------------------|------------------|
+| **Mean Age (years)**     | 6.05 ± 0.96      | 6.96 ± 0.78      |
+| **Number of Girls**      | 4                | 3                |
+
 
 
 [[Zhang_2025\|Zhang_2025]]

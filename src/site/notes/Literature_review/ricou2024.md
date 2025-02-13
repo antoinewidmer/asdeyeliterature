@@ -40,7 +40,7 @@
 
 
 
-## 📌 **Summary**
+## 📌 Summary
 
 - **Objective**: The study examines the **developmental trajectory of face processing** in autistic individuals using **eye-tracking and pupillometry**.
 - **Methodology**:
@@ -51,11 +51,10 @@
     - **Pupillary hypersensitivity in neurotypicals decreased with age**, while autistic individuals exhibited **low and stable physiological responses** across life stages.
     - Differences in **face processing** suggest **atypical maturation of social attention networks in ASD**.
 
----
 
-## 🔬 **Methods**
+## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Cross-sectional** design with participants grouped by **four age ranges** (3–7, 8–12, 13–18, 19–33 years).
 - **Eye-tracking** and **pupillometry** were used to measure **gaze behavior and physiological reactivity**.
@@ -63,7 +62,7 @@
 
 ---
 
-### **Participants**
+### Participants
 
 | Characteristic        | Value |
 |----------------------|--------------------------------|
@@ -77,14 +76,8 @@
 | **Exclusion Criteria** | Neurological disorders, vision impairments |
 
 
-**Criticism**:
 
-- **Severe gender imbalance (mostly males in ASD group)** limits generalizability.
-- **Lack of socioeconomic or cultural factors**, which are known to impact **face processing strategies**.
-
----
-
-### **Tasks for Participants**
+### Tasks for Participants
 
 | Task Name                | Purpose                                    | Format                        | Data Collected |
 |--------------------------|--------------------------------|-------------------------|----------------------------|
@@ -100,7 +93,7 @@
 
 ---
 
-### **System Setup and Hardware**
+### System Setup and Hardware
 
 | Device | Purpose | Specifications |
 |--------|---------|------------------|
@@ -116,9 +109,9 @@
 
 ---
 
-### **Data Analysis**
+### Data Analysis
 
-#### **Collected Features in Dataset**
+#### Collected Features in Dataset
 
 | Feature Category         | Feature Name              | Related Task | Measurement Description |
 |--------------------------|----------------------|-------------|--------------------------|
@@ -133,9 +126,9 @@
 
 ---
 
-## 📊 **Results & Key Findings**
+## 📊 Results & Key Findings
 
-### **Key Findings:**
+### Key Findings:
 
 - **Neurotypical participants showed increased attention to eyes with age**, while **autistic individuals had stable, lower fixation on eyes** across all age groups.
 - **Pupillary reactivity to social stimuli was stronger in younger neurotypical children** but declined over time.
@@ -144,7 +137,7 @@
 
 ---
 
-### **Implications for the Project**
+### Implications for the Project
 
 - **Supports the idea that ASD individuals follow an alternative developmental trajectory in face processing**.
 - **Suggests that early eye-tracking markers could help identify ASD before behavioral symptoms become pronounced**.
@@ -152,7 +145,7 @@
 
 ---
 
-## 🔍 **Related Work**
+## 🔍 Related Work
 
 - **Aligns with previous studies (Klin et al., 2002; Pelphrey et al., 2002) showing reduced eye fixation in ASD**.
 - **Extends Martineau et al. (2011) and Sepeta et al. (2012) by demonstrating pupillometry differences across a lifespan**.
@@ -160,9 +153,9 @@
 
 ---
 
-## 📝 **Observations**
+## 📝 Observations
 
-### **Strengths of the Study**
+### Strengths of the Study
 
 ✅ **Large age range (3–34 years) provides insight into long-term ASD developmental trajectories**.  
 ✅ **Combination of eye-tracking and pupillometry offers both behavioral and physiological insights**.  
@@ -171,7 +164,7 @@
 
 ---
 
-### **Major Concerns and Challenges**
+### Major Concerns and Challenges
 
 ⚠ **Overgeneralization of "Invariant Response"**
 
@@ -195,7 +188,7 @@
 
 ---
 
-### **Final Verdict: Strong but Requires More Real-World Validation**
+### Final Verdict: Strong but Requires More Real-World Validation
 
 ✅ **Provides compelling evidence of ASD-specific differences in face processing**.  
 ⚠ **Needs refinement in methodology, higher-resolution tracking, and individualized ASD subtyping**.  

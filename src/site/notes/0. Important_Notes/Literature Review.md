@@ -17,5 +17,6 @@
 - [[GeneralNotes/Autism research - IDIAP\|Autism research - IDIAP]]
 - [[GeneralNotes/Autism research - UNIGE\|Autism research - UNIGE]]
 
+- [[GeneralNotes/Summary of Participant Characteristics\|Summary of Participant Characteristics]]
 
 ## [[GeneralNotes/List of all papers\|List of all papers]]

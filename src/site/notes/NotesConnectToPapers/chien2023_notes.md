@@ -4,47 +4,87 @@
 
 [[Literature_review/chien2023\|chien2023]]
 
-## 📌 Summary
+## 📌 **Summary**
 
-## 🔬 Methods
+- **Objective**:
+    
+    - The study develops a **game-based social interaction platform** incorporating **eye-tracking technology** to assess **social cognition and gaze behavior** in children and preadolescents with autism.
+    - The platform aims to **quantify social attention deficits** and **evaluate cognitive functions through serious games**.
+- **Methodology**:
+    
+    - **Three game modules** focused on:
+        1. **Gaze following & joint attention**
+        2. **Facial emotion recognition**
+        3. **Complex social interactions**
+    - **Eye-tracking metrics** (fixation duration, saccades, time-to-first-fixation) were used to identify **biomarkers of ASD**.
+- **Findings**:
+    
+    - **Children with ASD exhibited shorter fixation durations on positive emotions and social stimuli**.
+    - **ASD participants had longer saccade durations**, particularly when reading descriptions of social scenarios.
+    - **Autistic children showed reduced gaze-following abilities**, especially when tracking multiple characters.
+    - **Eye-tracking signals were validated as potential biomarkers for ASD cognitive assessment**.
+
+---
+
+## 🔬 **Methods**
+
+### **Study Design**
+
+- **Experimental study** testing a **game-based social training interface** for **ASD children and teenagers**.
+- **Eye-tracking technology** recorded **gaze patterns and visual attention behaviors**.
+- **Participants were divided into two age groups**:
+    1. **Toddlers & young children (4–7 years old)**
+    2. **Preadolescents & teenagers (11–13 years old)**
+- **Three modules were developed**, each targeting different social and cognitive skills.
 
 ### Participants
 
-- **Total recruited:** **48 children**
-    - **Typically Developing (TD) Children:** **30**
-    - **Children with ASD:** **18**
-- **Groups by age and cognitive ability:**
-    - **Toddlers and children (4–7 years)**
-        - **ASD:** 12 (after exclusions: 7)
-        - **TD:** 18 (after exclusions: 17)
-    - **Preadolescents and teenagers (11–13 years)**
-        - **ASD:** 6
-        - **TD:** 12
-- **Exclusions:**
-    - **5 ASD children** excluded due to **inattention or inability to complete eye-tracking calibration**.
-    - **Eye-tracking data was excluded if completeness was below 70% or missing data exceeded 30%**.
-- **Cognitive Assessments:**
-    - **Wechsler Intelligence Scale for Children (WISC)** (for toddlers and children).
-    - **Test of Nonverbal Intelligence, Fourth Edition (TONI-4)** (for teenagers).
-    - **No significant IQ differences** between ASD and TD groups.
+| Characteristic       | Value |
+|---------------------|--------------------------------|
+| **Total Sample**    | 48 participants (14–13 years old) |
+| **Autism Group**    | 18 children |
+| **Typically Developing (TD) Group** | 30 children |
+| **Age Groups** | 4–7 years (toddlers & children), 11–13 years (preadolescents & teenagers) |
+| **Gender Distribution** | 10 males, 8 females (ASD); 19 males, 11 females (TD) |
+| **Recruitment Site** | National Taiwan University Hospital |
+| **Inclusion Criteria** | Diagnosed ASD (DSM-5 & ICD-10 criteria) |
+| **Exclusion Criteria** | Comorbid major neuropsychiatric disorders (epilepsy, bipolar, schizophrenia) |
+
 
 ### Tasks for participants
 
-#### Three Game Modules
+| Task Name                | Purpose                                    | Format                        | Data Collected |
+|--------------------------|--------------------------------|-------------------------|----------------------------|
+| **Joint-Attention Game** | Assess gaze-following & joint attention | Cartoon-based interactive task | Fixation time, reaction time, accuracy |
+| **Emotion-Recognition Game** | Evaluate emotion perception & empathy | Matching cartoon faces with real emotions | Fixation patterns, emotion-matching accuracy |
+| **Social Interaction Game** | Simulate complex social interactions | Role-playing with animated characters | Facial expression recognition, appropriate vs. inappropriate behavior selection |
+
 
 ### System setup and hardware
 
 #### Eye-Tracking Data Collection
 
-- **Hardware:** **Tobii X2-30 Eye Tracker** (30 Hz sampling rate).
-- **Software:** **Tobii Pro Studio** for calibration and analysis.
-- **Calibration:** **Five-point calibration** for gaze detection.
-- **Regions of Interest (ROIs):**
-    - **Eyes, face, mouth, emotions, and social elements** were defined for each module.
+| Device | Purpose | Specifications |
+|--------|---------|------------------|
+| **Tobii X2-30 Eye-Tracker** | Gaze tracking | 30 Hz sampling rate, infrared-based |
+| **Tobii Pro Studio** | Eye-tracking data processing | Fixation & saccade analysis |
+| **Unity 3D** | Game platform development | Custom animations & role-playing scenarios |
+| **TONI-4 (Nonverbal IQ Test)** | Cognitive assessment | Standardized test for abstract reasoning |
+
 
 ### Data Analysis
 
+| Feature Category         | Feature Name              | Related Task | Measurement Description |
+|--------------------------|----------------------|-------------|--------------------------|
+| **Gaze Behavior**       | Fixation Percentage  | Joint-Attention Game | % time looking at correct vs. incorrect gaze cues |
+| **Emotion Processing**  | Emotion-Matching Accuracy | Emotion-Recognition Game | Correctly matching cartoon & real facial expressions |
+| **Visual Exploration**  | Saccade Duration | Social Interaction Game | Time spent scanning different social features |
+| **Social Attention**    | Fixation on Eyes vs. Mouth | Social Interaction Game | % fixation time on socially relevant features |
+
+
 The study utilized **statistical tests** to analyze **task performance and eye-tracking features** between **autistic (ASD) and typically developing (TD) children**. Below is a detailed breakdown of the analysis performed:
+
+
 
 #### 1. Statistical Analysis of Task Performance
 
@@ -134,18 +174,61 @@ The study utilized **statistical tests** to analyze **task performance and ey
 |**Shapiro-Wilk Test**|Check normality|Task performance and gaze features|
 |**Levene’s Test**|Check variance homogeneity|Ensured valid t-test results|
 
-## 📊 Results & Key Findings
+## 📊 **Results & Key Findings**
 
-1. **ASD children exhibit atypical eye-tracking behaviors**:
-    
-    - **Reduced fixation on positive emotions** (p = 0.047).
-    - **Longer saccade durations when reading social cues** (p = 0.018).
-    - **More fixation on text-based social captions** (p = 0.018).
-2. **Statistical tests confirmed significant differences** in gaze behavior between ASD and TD children.
-    
-3. **Correlation analysis showed eye-tracking features can predict cognitive ability**, supporting eye-tracking as a diagnostic tool.
-    
+### **Key Findings:**
 
-- ## 🔍 Related Work
-    
-- ## 📝 Notes for Review
+- **ASD children showed shorter fixation durations on positive emotional expressions**.
+- **Increased saccade durations in ASD when reading social scenario descriptions**.
+- **ASD children spent less time tracking multiple targets in gaze-following tasks**.
+- **No significant difference in task reaction times between ASD and TD groups**.
+- **Facial emotion recognition accuracy was lower in ASD but not statistically significant**.
+
+### **Implications for the Project**
+
+- **Supports the use of eye-tracking for ASD cognitive assessment in game-based interventions**.
+- **Findings reinforce social attention deficits as a core ASD feature**.
+- **Potential applications for adaptive intervention tools that adjust difficulty based on gaze behavior**.
+
+---
+
+## 🔍 **Related Work**
+
+- **Aligns with studies (Wang et al., 2020) showing altered gaze patterns in ASD**.
+- **Expands research on serious games (Babu et al., 2020) by integrating gaze-based social cognition tasks**.
+- **Contrasts with EEG-based ASD cognitive assessments, focusing solely on gaze-tracking**.
+
+---
+
+## 📝 **Observations**
+
+### **Strengths of the Study**
+
+✅ **Multimodal assessment integrating game-based tasks and eye-tracking**.  
+✅ **First study in East Asia to use gaze tracking for ASD assessment in a game-based platform**.  
+✅ **Structured modules allow for stratification of ASD severity based on gaze behavior**.  
+✅ **Validated against standardized diagnostic tools (DSM-5, ICD-10, TONI-4)**.
+
+---
+
+### **Major Concerns and Challenges**
+
+⚠ **Small Sample Size & Limited Diversity**
+
+- Only **18 ASD children** → **insufficient for generalizable conclusions**.
+- **No data on socioeconomic backgrounds** or **cultural gaze biases**.
+
+⚠ **Lack of Longitudinal Tracking**
+
+- Study does **not track improvements in social cognition over time**.
+- Would benefit from **pre-post intervention comparison**.
+
+⚠ **Reliance on Cartoon-Based Stimuli**
+
+- **Findings may not generalize to real-world social interactions**.
+- **Faces used in emotion recognition tasks are highly stylized**, possibly affecting ASD children's responses.
+
+⚠ **No Integration with Physiological or Machine Learning Models**
+
+- Could benefit from **EEG-based emotion recognition or deep learning for gaze classification**.
+- **No mention of automated ASD classification accuracy**.

@@ -3,7 +3,7 @@
 ---
 
 
-## 📌 **Summary**
+## 📌 Summary
 
 - **Objective**: To evaluate whether a **battery of eye-tracking biomarkers** can reliably **differentiate young children with and without autism** in a primary care setting.
 - **Methodology**:
@@ -16,9 +16,9 @@
     - **Gaze-based markers provide additional value beyond PCP diagnosis alone**, suggesting **a role for AI-driven ASD screening tools**.
 
 
-## 🔬 **Methods**
+## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Prospective diagnostic study** conducted from **June 2019 to September 2022**.
 - **Participants referred by PCPs** at EAE hubs for autism evaluation.
@@ -27,7 +27,7 @@
 
 ---
 
-### **Participants**
+### Participants
 
 | Characteristic        | Value |
 |----------------------|--------------------------------|
@@ -49,7 +49,7 @@
 
 ---
 
-### **Tasks for Participants**
+### Tasks for Participants
 
 | Task Name                | Purpose                                    | Format                        | Data Collected |
 |--------------------------|--------------------------------|-------------------------|----------------------------|
@@ -66,7 +66,7 @@
 - **No naturalistic interaction** (e.g., caregiver-child gaze tracking).
 
 
-### **System Setup and Hardware**
+### System Setup and Hardware
 
 | Device | Purpose | Specifications |
 |--------|---------|------------------|
@@ -78,9 +78,9 @@
 
 
 
-### **Data Analysis**
+### Data Analysis
 
-#### **Collected Features in Dataset**
+#### Collected Features in Dataset
 
 | Feature Category         | Feature Name              | Related Task | Measurement Description |
 |--------------------------|----------------------|-------------|--------------------------|
@@ -95,7 +95,7 @@
 
 ## 📊 **Results & Key Findings**
 
-### **Key Findings:**
+### Key Findings:
 
 - **Eye-tracking biomarkers had 77.5% sensitivity and 77.3% specificity** in differentiating ASD from non-ASD.
 - **PCP diagnosis alone had lower accuracy than eye-tracking biomarkers**.
@@ -103,7 +103,7 @@
 - **Children with lower social gaze and increased nonsocial preference had lower adaptive functioning scores**.
 - **Higher fixation duration was associated with ASD, while shorter pupillary light reflex latency predicted ASD**.
 
-### **Implications for the Project**
+### Implications for the Project
 
 - **Supports the feasibility of using eye-tracking for scalable ASD screening in primary care**.
 - **Suggests that eye-tracking can enhance clinician judgment, reducing diagnostic uncertainty**.
@@ -111,7 +111,7 @@
 
 
 
-## 🔍 **Related Work**
+## 🔍 Related Work
 
 - **Builds on previous work (Pierce et al., 2016) on social vs. nonsocial gaze differences in ASD**.
 - **Aligns with studies (Jones & Klin, 2013) that show gaze patterns are predictive of ASD risk**.
@@ -119,9 +119,9 @@
 
 
 
-## 📝 **Observations**
+## 📝 Observations
 
-### **Strengths of the Study**
+### Strengths of the Study
 
 ✅ **Large community-referred sample (146 children) improves real-world relevance**.  
 ✅ **Integration of eye-tracking biomarkers with clinical diagnosis enhances accuracy**.  
@@ -129,7 +129,7 @@
 ✅ **Use of a multimodal approach (gaze, pupillary response, oculomotor behavior)**.
 
 
-### **Major Concerns and Challenges**
+### Major Concerns and Challenges
 
 ⚠ **Limited Generalizability**
 
@@ -150,7 +150,7 @@
 
 
 
-### **Final Verdict: Strong but Needs Further Validation**
+### Final Verdict: Strong but Needs Further Validation
 
 ✅ **Promising approach for integrating AI-driven biomarkers into primary care ASD screening**.  
 ⚠ **Requires external validation, increased demographic diversity, and real-world deployment studies**.

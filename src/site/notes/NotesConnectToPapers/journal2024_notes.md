@@ -30,7 +30,7 @@
 
 ---
 
-### **Participants**
+### Participants
 
 | Characteristic       | Value |
 |---------------------|--------------------------------|
@@ -43,7 +43,7 @@
 | **Exclusion Criteria** | Severe cognitive impairment preventing participation |
 
 
-### **Tasks for Participants**
+### Tasks for Participants
 
 | Task Name                | Purpose                                    | Format                        | Data Collected |
 |--------------------------|--------------------------------|-------------------------|----------------------------|
@@ -52,7 +52,7 @@
 | **Mullen Scales of Early Learning (MSEL)** | Measure cognitive ability | Standardized test | Expressive/receptive language, visual perception |
 | **Vineland Adaptive Behavior Scales (VABS-II)** | Measure adaptive functioning | Parent interview | Socialization, communication, motor skills |
 
-### **System Setup and Hardware**
+### System Setup and Hardware
 
 | Device | Purpose | Specifications |
 |--------|---------|------------------|
@@ -62,9 +62,9 @@
 | **GraphPad PRISM** | Data Visualization | Graph generation for PCA results |
 
 
-### **Data Analysis**
+### Data Analysis
 
-#### **Collected Features in Dataset**
+#### Collected Features in Dataset
 
 | Feature Category          | Feature Name              | Related Task | Measurement Description |
 |--------------------------|----------------------|-------------|--------------------------|
@@ -77,7 +77,7 @@
 
 ## 📊 Results & Key Findings
 
-### **Key Findings:**
+### Key Findings:
 
 - **TD children consistently outperformed ASD children in preverbal communication skills**, but both groups showed improvement over time.
 - **Two major social communication factors were identified**:
@@ -92,7 +92,7 @@
 
 ---
 
-### **Implications for the Project**
+### Implications for the Project
 
 - **Supports personalized intervention strategies based on preverbal communication profiles**.
 - **Highlights the role of nonverbal communication as a predictor of later cognitive and social outcomes**.
@@ -112,7 +112,7 @@
 
 ## 📝 Observations
 
-### **Strengths of the Study**
+### Strengths of the Study
 
 ✅ **Large longitudinal dataset (171 children, 596 timepoints), allowing for robust developmental analysis**.  
 ✅ **Innovative use of PCA and cluster analysis to identify ASD subgroups**.  
@@ -122,7 +122,7 @@
 
 ---
 
-### **Major Concerns and Challenges**
+### Major Concerns and Challenges
 
 ⚠ **Potential Overinterpretation of Clusters**
 

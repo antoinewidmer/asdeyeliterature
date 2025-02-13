@@ -12,26 +12,20 @@
 ## 🔬 Methods 
 ### Participants
 
-- **Total Sample:** **405 Australian children and adolescents**
-    
-    - **ADHD group:** 64
-    - **Autism (ASD) group:** 66
-    - **Autism + ADHD group:** 146
-    - **Neurotypical (NT) controls:** 129
-- **Age range:** **4 to 18 years** (Mean: 9.64 ± 3.20 years)
-    
-- **Confirmatory datasets from:**
-    
-    - **University of Nottingham (UK):** 101 children (17 ASD, 22 ADHD, 32 ASD+ADHD, 30 NT)
-    - **University of Kansas (USA):** 70 children (29 ASD, 41 NT)
-- **Clinical assessments used for ASD and ADHD diagnosis:**
-    
-    - **Autism Diagnostic Observation Schedule (ADOS-2)**
-    - **Conners’ Parent Rating Scale (CPRS)**
-    - **Social Responsiveness Scale (SRS-2)**
-    - **Wechsler Intelligence Scale for Children (WISC-V)**
-    - **Vineland Adaptive Behaviour Scale (VABS-3)**
-- **Medication:** Children on ADHD medication **stopped taking stimulants 48-72 hours before eye-tracking tests**.
+
+| Characteristic            | Value |
+|--------------------------|--------------------------------|
+| **Total Sample**         | 405 Australian children and adolescents |
+| **ADHD Group**           | 64 children |
+| **Autism (ASD) Group**   | 66 children |
+| **Autism + ADHD Group**  | 146 children |
+| **Neurotypical (NT) Controls** | 129 children |
+| **Age Range**            | 4 to 18 years (Mean: 9.64 ± 3.20 years) |
+| **Confirmatory Dataset - University of Nottingham (UK)** | 101 children (17 ASD, 22 ADHD, 32 ASD+ADHD, 30 NT) |
+| **Confirmatory Dataset - University of Kansas (USA)** | 70 children (29 ASD, 41 NT) |
+| **Clinical Assessments for ASD & ADHD Diagnosis** | ADOS-2, CPRS, SRS-2, WISC-V, VABS-3 |
+| **Medication Considerations** | ADHD medication stopped 48-72 hours before eye-tracking tests |
+
 
 ### Tasks for participants
 

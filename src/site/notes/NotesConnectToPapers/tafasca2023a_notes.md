@@ -6,7 +6,7 @@
 
 [[Literature_review/tafasca2023a\|tafasca2023a]]
 
-## **Summary**
+## Summary
 
 - **Objective**: The study presents AI4Autism, a **Swiss National Science Foundation-funded** project aiming to improve **ASD diagnosis and stratification** using **multimodal AI techniques**.
 - **Methodology**: Uses **computer vision, Internet of Things (IoT) sensors, and machine learning models** to capture **motor, gaze, and social behaviors** in autistic children.
