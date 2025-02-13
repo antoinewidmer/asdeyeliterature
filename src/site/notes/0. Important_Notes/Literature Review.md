@@ -16,6 +16,10 @@
 - [[GeneralNotes/ASD papers\|ASD papers]]
 - [[GeneralNotes/Summary of Participant Characteristics\|Summary of Participant Characteristics]]
 
+- [[GeneralNotes/Female Biais\|Female Biais]]
+
+
+
 - [[GeneralNotes/Autism research - Duke\|Autism research - Duke]]
 - [[GeneralNotes/Autism research - IDIAP\|Autism research - IDIAP]]
 - [[GeneralNotes/Autism research - UNIGE\|Autism research - UNIGE]]
