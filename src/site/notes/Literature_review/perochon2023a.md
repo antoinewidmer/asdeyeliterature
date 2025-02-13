@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/perochon2023a/","title":"Early detection of autism using digital behavioral phenotyping","tags":["Machine","learning","Disability"]}
+{"dg-publish":true,"permalink":"/literature-review/perochon2023a/","title":"Early detection of autism using digital behavioral phenotyping","tags":["Machine","learning","Disability","EyeTracking"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/leblanc2020/","title":"Feature replacement methods enable reliable home video analysis for machine learning detection of autism","tags":["Machine","learning","Autism","spectrum","disorders","Paediatric","research"]}
+{"dg-publish":true,"permalink":"/literature-review/leblanc2020/","title":"Feature replacement methods enable reliable home video analysis for machine learning detection of autism","tags":["Machine","learning","Autism","spectrum","disorders","Paediatric","research","ASD"]}
 ---
 
 

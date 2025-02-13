@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/zhang2025a/","title":"Exploring Eye-tracking based Biomarkers to Assess Cognitive Abilities in Autistic Children A Feasibility Study","tags":["Autism","human-computer","interaction","eye","tracking","Gaze","tracking","Emotion","recognition","Visualization","Games","Protocols","Cognition","Biomarkers","autism","spectrum","disorder","Bioinformatics","cognitive","assessment","Magnetic","heads","obsidian"]}
+{"dg-publish":true,"permalink":"/literature-review/zhang2025a/","title":"Exploring Eye-tracking based Biomarkers to Assess Cognitive Abilities in Autistic Children A Feasibility Study","tags":["Autism","human-computer","interaction","eye","tracking","Gaze","tracking","Emotion","recognition","Visualization","Games","Protocols","Cognition","Biomarkers","autism","spectrum","disorder","Bioinformatics","cognitive","assessment","Magnetic","heads","obsidian","EyeTracking"]}
 ---
 
 

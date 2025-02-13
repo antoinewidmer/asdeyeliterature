@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/washington2022/","title":"Crowd annotations can approximate clinical autism impressions from short home videos with privacy protections"}
+{"dg-publish":true,"permalink":"/literature-review/washington2022/","title":"Crowd annotations can approximate clinical autism impressions from short home videos with privacy protections","tags":["ASD"]}
 ---
 
 

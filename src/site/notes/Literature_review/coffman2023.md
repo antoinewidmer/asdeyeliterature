@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/coffman2023/","title":"Relationship between quantitative digital behavioral features and clinical profiles in young autistic children","tags":["autism","screening","computer","vision","digital","phenotyping"]}
+{"dg-publish":true,"permalink":"/literature-review/coffman2023/","title":"Relationship between quantitative digital behavioral features and clinical profiles in young autistic children","tags":["autism","screening","computer","vision","digital","phenotyping","EyeTracking"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/lencastre2024a/","title":"Identifying Autism Gaze Patterns in Five-Second Data Records","tags":["autism","AI","eye-tracking","autism","diagnosis","eye","gaze","dynamics","intelligent","health"]}
+{"dg-publish":true,"permalink":"/literature-review/lencastre2024a/","title":"Identifying Autism Gaze Patterns in Five-Second Data Records","tags":["autism","AI","eye-tracking","autism","diagnosis","eye","gaze","dynamics","intelligent","health","EyeTracking"]}
 ---
 
 

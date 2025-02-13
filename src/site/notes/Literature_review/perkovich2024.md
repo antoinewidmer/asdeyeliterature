@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/perkovich2024/","title":"Conducting head-mounted eye-tracking research with young children with autism and children with increased likelihood of later autism diagnosis","tags":["Attention","Eye-tracking","Autism","spectrum","disorder","Social","behavior","Social","cognition"]}
+{"dg-publish":true,"permalink":"/literature-review/perkovich2024/","title":"Conducting head-mounted eye-tracking research with young children with autism and children with increased likelihood of later autism diagnosis","tags":["Attention","Eye-tracking","Autism","spectrum","disorder","Social","behavior","Social","cognition","EyeTracking"]}
 ---
 
 

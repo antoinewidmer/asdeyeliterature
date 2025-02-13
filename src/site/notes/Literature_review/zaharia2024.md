@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/zaharia2024/","title":"Examining the Link Between Social Affect and Visual Exploration of Cute Stimuli in Autistic Children","tags":["Eye-tracking","Autism","spectrum","disorder","Neurodevelopmental","Disorders","Baby","schema","Cuteness","Social","affect"]}
+{"dg-publish":true,"permalink":"/literature-review/zaharia2024/","title":"Examining the Link Between Social Affect and Visual Exploration of Cute Stimuli in Autistic Children","tags":["Eye-tracking","Autism","spectrum","disorder","Neurodevelopmental","Disorders","Baby","schema","Cuteness","Social","affect","EyeTracking"]}
 ---
 
 

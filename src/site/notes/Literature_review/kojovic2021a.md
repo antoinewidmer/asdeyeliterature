@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/kojovic2021a/","title":"Using 2D video-based pose estimation for automated prediction of autism spectrum disorders in young children","tags":["Diagnostic","markers","Human","behaviour","Social","behaviour"]}
+{"dg-publish":true,"permalink":"/literature-review/kojovic2021a/","title":"Using 2D video-based pose estimation for automated prediction of autism spectrum disorders in young children","tags":["Diagnostic","markers","Human","behaviour","Social","behaviour","BodyTracking"]}
 ---
 
 

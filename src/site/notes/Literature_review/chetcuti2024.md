@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/chetcuti2024/","title":"Feasibility of a 2-minute eye-tracking protocol to support the early identification of autism","tags":["Disability","Risk","factors"]}
+{"dg-publish":true,"permalink":"/literature-review/chetcuti2024/","title":"Feasibility of a 2-minute eye-tracking protocol to support the early identification of autism","tags":["Disability","Risk","factors","EyeTracking"]}
 ---
 
 
