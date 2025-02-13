@@ -17,7 +17,7 @@
 
 ## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Observational study** conducted during **routine pediatric well-child visits**.
 - Children interacted with the **SenseToKnow app**, while **video and touch data** were recorded.
@@ -25,7 +25,7 @@
 
 ---
 
-### **Participants**
+### Participants
 
 | Characteristic        | Value |
 |----------------------|--------------------------------|

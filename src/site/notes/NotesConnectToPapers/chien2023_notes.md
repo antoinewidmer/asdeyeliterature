@@ -26,9 +26,9 @@
 
 ---
 
-## 🔬 **Methods**
+## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Experimental study** testing a **game-based social training interface** for **ASD children and teenagers**.
 - **Eye-tracking technology** recorded **gaze patterns and visual attention behaviors**.
