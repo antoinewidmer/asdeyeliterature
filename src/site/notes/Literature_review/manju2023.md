@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/manju2023/","title":"Increasing the Social Interaction of Autism Child using Virtual Reality Intervention (VRI)"}
+{"dg-publish":true,"permalink":"/literature-review/manju2023/","title":"Increasing the Social Interaction of Autism Child using Virtual Reality Intervention (VRI)","tags":["TSASDtoread"]}
 ---
 
 

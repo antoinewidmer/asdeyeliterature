@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/altin2025/","title":"Examining Virtual Reality Interventions for Social Skills in Children with Autism Spectrum Disorder A Systematic Review","tags":["Virtual","reality","Autism","spectrum","disorder","Intervention","Social","skills"]}
+{"dg-publish":true,"permalink":"/literature-review/altin2025/","title":"Examining Virtual Reality Interventions for Social Skills in Children with Autism Spectrum Disorder A Systematic Review","tags":["Virtual","reality","Autism","spectrum","disorder","Intervention","Social","skills","literRevTSASDXR"]}
 ---
 
 
