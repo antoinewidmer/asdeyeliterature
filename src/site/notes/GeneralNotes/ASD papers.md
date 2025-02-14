@@ -34,5 +34,6 @@
 | [[Literature_review/wu2021a\|wu2021a]]               | Machine Learning Based Autism Spectrum Disorder Detection from Videos                                                                                                                 | journalArticle    |
 | [[Literature_review/leblanc2020\|leblanc2020]]       | Feature replacement methods enable reliable home video analysis for machine learning detection of autism                                                                              | journalArticle    |
 | [[Literature_review/ardalan2019\|ardalan2019]]       | Whole-Body Movement during Videogame Play Distinguishes Youth with Autism from Youth with Typical Development                                                                         | journalArticle    |
+| [[Literature_review/green2019\|green2019]]           | Women and Autism Spectrum Disorder Diagnosis and Implications for Treatment of Adolescents and Adults                                                                                 | journalArticle    |
 
 { .block-language-dataview}
