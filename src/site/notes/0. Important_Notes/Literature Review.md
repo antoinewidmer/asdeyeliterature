@@ -17,6 +17,7 @@
 - [[GeneralNotes/Summary of Participant Characteristics\|Summary of Participant Characteristics]]
 
 - [[GeneralNotes/Female Detection Bias\|Female Detection Bias]]
+- [[GeneralNotes/Training skills for ASD in XR\|Training skills for ASD in XR]]
 
 
 ### other research groups
