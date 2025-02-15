@@ -11,6 +11,7 @@
 | [[Literature_review/tubio-fungueirino2021\|tubio-fungueirino2021]] | Social Camouflaging in Females with Autism Spectrum Disorder A Systematic Review                                                                     | journalArticle |
 | [[Literature_review/lockwoodestrin2021\|lockwoodestrin2021]]       | Barriers to Autism Spectrum Disorder Diagnosis for Young Women and Girls a Systematic Review                                                         | journalArticle |
 | [[Literature_review/green2019\|green2019]]                         | Women and Autism Spectrum Disorder Diagnosis and Implications for Treatment of Adolescents and Adults                                                | journalArticle |
+| [[Literature_review/lehnhardt2016\|lehnhardt2016]]                 | Sex-Related Cognitive Profile in Autism Spectrum Disorders Diagnosed Late in Life Implications for the Female Autistic Phenotype                     | journalArticle |
 
 { .block-language-dataview}
 
