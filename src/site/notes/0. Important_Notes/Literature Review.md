@@ -18,6 +18,7 @@
 
 - [[GeneralNotes/Female Detection Bias\|Female Detection Bias]]
 - [[GeneralNotes/Training skills for ASD in XR\|Training skills for ASD in XR]]
+- [[GeneralNotes/Stratification of ASD phenotypes\|Stratification of ASD phenotypes]]
 
 
 ### other research groups
