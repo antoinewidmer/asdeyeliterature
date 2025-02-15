@@ -31,8 +31,9 @@
 
 ## Notes
 
-| File | file.name |
-| ---- | --------- |
+| File                                                           | file.name        |
+| -------------------------------------------------------------- | ---------------- |
+| [[NotesConnectToPapers/molloy2022_notes\|molloy2022_notes]] | molloy2022_notes |
 
 { .block-language-dataview}
 
