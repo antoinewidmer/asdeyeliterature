@@ -158,4 +158,4 @@ autism spectrum disorders based on their behavioral responses during a social in
 2. [[Literature_review/hassan2024\|hassan2024]]: discusses the limitations of ML notably on overfitting due to small groups for training
 
 #### 2.2.4 Research Vs clinic distance
-3. [Chamak, , Milton, ]: research priorities are disconnected from field needs (clinician and people with ASD) and improvement in participative is requested if social sciences/nonmedical perspective is to be brought
+1. [Chamak] [[Literature_review/milton2014\|milton2014]] : research priorities are disconnected from field needs (clinician and people with ASD) and improvement in participative is requested if social sciences/nonmedical perspective is to be brought 
