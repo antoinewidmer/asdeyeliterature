@@ -40,3 +40,20 @@
 
 ## Figures
 
+**Imported: 2025-02-17**
+
+> ![Images/robles2022/image-undefined-x40-y329.png](/img/user/Images/robles2022/image-undefined-x40-y329.png)
+
+> ![Images/robles2022/image-3-x16-y620.png](/img/user/Images/robles2022/image-3-x16-y620.png)
+
+> ![Images/robles2022/image-3-x16-y430.png](/img/user/Images/robles2022/image-3-x16-y430.png)
+
+> ![Images/robles2022/image-3-x285-y424.png](/img/user/Images/robles2022/image-3-x285-y424.png)
+
+> ![Images/robles2022/image-4-x26-y413.png](/img/user/Images/robles2022/image-4-x26-y413.png)
+
+> ![Images/robles2022/image-4-x287-y412.png](/img/user/Images/robles2022/image-4-x287-y412.png)
+
+> ![Images/robles2022/image-5-x20-y490.png](/img/user/Images/robles2022/image-5-x20-y490.png)
+
+> ![Images/robles2022/image-5-x283-y661.png](/img/user/Images/robles2022/image-5-x283-y661.png)
