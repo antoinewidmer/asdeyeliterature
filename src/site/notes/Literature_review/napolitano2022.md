@@ -38,3 +38,35 @@
 
 ## Figures
 
+
+### Behavioral and Cognitive Biomarkers in ASD: Sex-Specific Differences
+
+|**Biomarker Category**|**Biomarker**|**Males with ASD**|**Females with ASD**|**Neurobiological/Behavioral Basis**|**Clinical Implications**|
+|---|---|---|---|---|---|
+|**Social Interaction**|Eye Contact|Reduced eye contact; prefers objects|Better eye contact but struggles with social cues|Dysfunction in fusiform face area & amygdala|Early eye-tracking assessments for social attention|
+||Gaze Alternation|Lower frequency of gaze shifts between faces & objects|Higher gaze alternation but less consistent focus|Impaired superior colliculus function|Use gaze alternation tasks in diagnostic settings|
+||Social Motivation|Low social engagement; prefers mechanical objects|Higher motivation but less meaningful engagement|Altered connectivity in the ventromedial prefrontal cortex|Use of camouflaging scales for better detection in females|
+|**Repetitive Behaviors**|Stereotyped Movements|More visible repetitive behaviors (e.g., hand flapping)|More subtle repetitive behaviors (e.g., hair twirling)|Basal ganglia hyperactivity|Observation-based assessments for both overt and covert behaviors|
+||Restricted Interests|Focus on mechanical objects (e.g., trains, gadgets)|Intense focus on socially aligned interests (e.g., animals)|Prefrontal cortex hyperconnectivity|Gender-adapted interest inventories for early screening|
+|**Sensory Processing**|Sensory Hyperreactivity|More tolerant to sensory stimuli|Heightened sensitivity to sound, touch, smell|Dysfunction in thalamocortical pathways|Sensory profile screening during early developmental stages|
+||Sensory Hyporeactivity|Frequently under-reacts to social stimuli|Less hyporeactive but slower adaptation|Impaired sensory integration in somatosensory cortex|Tailored interventions for sensory desensitization|
+|**Eye-Tracking Biomarkers**|Fixation Duration|Longer fixation on objects than faces|More balanced fixation but less meaningful gaze|Reduced activation of the social brain network|Use of dynamic social videos in assessment|
+||Saccade Latency|Longer time to initiate saccades|Faster but less accurate saccades|Impaired frontal eye fields and superior colliculus|Anti-saccade tasks for assessing impulse control|
+||Pupil Dilation to Faces|Reduced pupil dilation to emotional faces|Greater pupil response to faces|Dysregulation of autonomic nervous system|Pupillometry for emotional response assessment|
+|**Cognitive Function**|Attention Control|High distractibility, impulsive responses|Better control but easily fatigued|Prefrontal cortex hypoactivation|Attention assessments considering cognitive load differences|
+||Cognitive Flexibility|Rigid thought patterns, struggles with change|Greater flexibility but perseverative thinking|Prefrontal cortex & anterior cingulate cortex involvement|Adaptive cognitive exercises targeting flexibility|
+||Executive Function|Poor working memory, impulsivity|Better executive control but more anxiety|Impaired dorsolateral prefrontal cortex|Cognitive training programs tailored to sex differences|
+|**Emotional Regulation**|Anxiety|Lower anxiety, more externalizing behaviors|Higher anxiety, more internalizing symptoms|Overactivation of the amygdala & hypothalamus|Anxiety-specific screening tools for ASD females|
+||Depression|Lower prevalence, more irritability|Higher prevalence, often missed due to ASD symptoms|Prefrontal cortex dysfunction|Routine mood screening during adolescence|
+|**Language and Communication**|Pragmatic Language|Delayed development, monotone speech|Typical development with pragmatic deficits|Impaired temporal lobe connectivity|Use of natural conversation tasks in diagnosis|
+||Echolalia|More obvious repetition of phrases|Subtle, less noticeable echolalia|Disrupted left hemisphere language areas|Narrative-based assessments for real-time conversation monitoring|
+
+---
+
+### **Key Insights**
+
+- **Social Interaction & Communication:** Females often mask deficits, leading to underdiagnosis, while males present with more overt symptoms.
+- **Repetitive Behaviors & Interests:** Males show typical ASD behaviors, whereas females' interests align with gender-normative topics, complicating recognition.
+- **Sensory Processing:** Females tend to have more hypersensitivity across sensory modalities.
+- **Cognitive Profiles:** Males show more hyperactivity and impulsivity; females exhibit more anxiety and emotional regulation difficulties.
+- **Eye-Tracking:** Provides objective data on social attention, visual preferences, and emotional responsiveness.
