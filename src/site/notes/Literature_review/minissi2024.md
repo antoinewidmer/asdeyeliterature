@@ -148,3 +148,6 @@ The study demonstrates that motor skills are a promising biosignal for ASD asses
 > ![Images/minissi2024/image-5-x79-y114.png](/img/user/Images/minissi2024/image-5-x79-y114.png)
 
 > ![Images/minissi2024/image-7-x303-y411.png](/img/user/Images/minissi2024/image-7-x303-y411.png)
+
+
+kl
