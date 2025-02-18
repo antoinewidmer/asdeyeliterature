@@ -125,7 +125,7 @@ measured”
 
 ## 2 Use of advanced technology in ASD detection
 ### 2.1 Evidence for diagnosis improvement
-#### 2.1.1 Reviews/meta reviews
+#### 2.1.1 Reviews/meta reviews 
 1. [[Literature_review/bouchouras2025\|bouchouras2025]] - Systematic review showing that new technologies such as AI, IoT (Internet of Things), and sensor-based systems can improve autism diagnosis through non-invasive, real-time assessments (C)
 2. [[Literature_review/liu2017\|liu2017]] - Technology-facilitated diagnosis and treatment can enable earlier, more accurate, and more cost-effective approaches for individuals with autism spectrum disorder (C and A).
 
