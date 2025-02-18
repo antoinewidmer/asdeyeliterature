@@ -34,6 +34,7 @@
 | File                                                                 | file.name           |
 | -------------------------------------------------------------------- | ------------------- |
 | [[NotesConnectToPapers/cerasuolo2025_notes\|cerasuolo2025_notes]] | cerasuolo2025_notes |
+| [[NotesConnectToPapers/cerasuolo2025_table\|cerasuolo2025_table]] | cerasuolo2025_table |
 
 { .block-language-dataview}
 
@@ -162,6 +163,13 @@
 > ![Images/cerasuolo2025/image-15-x46-y70.png](/img/user/Images/cerasuolo2025/image-15-x46-y70.png)
 
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
 | Year | Study                       | Participants                                     | Measure                                          | VR Features                                                 | Main results: ASD ≠ TD                                                           |
 | ---- | --------------------------- | ------------------------------------------------ | ------------------------------------------------ | ----------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 2023 | [[Literature_review/minissi2024\|minissi2024]]             | ASD: n=20 (53.44±13.22y)  TD: n=20 (59.4±11.95y) | Motor patterns                                   | 3D CAVE; ball-kicking, flower-picking, bubble-blowing tasks | ASD: Greater displacement and velocity in upper limbs during flower-picking task |
@@ -183,3 +191,6 @@
 | 2016 | Forbes et al., 2016         | ASD: n=26 (28.3±6.1y)  TD: n=25 (27.5±6.1y)      | Imitation (mean peak height of movements)        | 2D VR environment; imitation task                           | ASD: Less imitation than TD                                                      |
 | 2015 | Kim et al., 2015            | ASD: n=19 (11.1±2.5y)  TD: n=23 (11.5±2.3y)      | Interpersonal distance, emotion recognition      | Avatar-mediated VR; emotion recognition task                | ASD: Less approach behavior towards happy avatars                                |
 | 2014 | Bekele et al., 2014         | ASD: n=10 (14.7±1.1y)  TD: n=10 (14.6±1.2y)      | Emotion recognition, eye gaze patterns           | Desktop VR; facial affect recognition task                  | ASD: Longer response times, lower confidence, more forehead focus                |
+
+
+</div></div>
