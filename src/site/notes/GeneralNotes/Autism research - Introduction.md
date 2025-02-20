@@ -10,6 +10,8 @@
 
 [[GeneralNotes/Autism research - UNIGE\|Autism research - UNIGE]]
 
+[[GeneralNotes/Autism research - KIND\|Autism research - KIND]]
+
 
 | **Researcher**         | **Affiliation / Role**                                                                                         | **Website**                                                                                   |
 |-------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|

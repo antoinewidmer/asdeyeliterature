@@ -31,6 +31,7 @@
 - [[GeneralNotes/Autism research - UNIGE\|Autism research - UNIGE]]
 - [[GeneralNotes/Autism research - UCLA\|Autism research - UCLA]]
 - [[GeneralNotes/Autism research - Cambridge\|Autism research - Cambridge]]
+- [[GeneralNotes/Autism research - KIND\|Autism research - KIND]]
 
 
 
