@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/tafasca2023a/","title":"The AI4Autism Project A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification","tags":["ASD","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/tafasca2023a/","title":"The AI4Autism Project A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification","tags":["autism","EyeTracking"]}
 ---
 
 

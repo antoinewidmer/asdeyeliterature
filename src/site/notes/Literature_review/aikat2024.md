@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/aikat2024/","title":"Digital Phenotyping based on a Mobile App Identifies Distinct and Overlapping Features in Children Diagnosed with Autism versus ADHD","tags":["ASD","mobile","ADHD","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/aikat2024/","title":"Digital Phenotyping based on a Mobile App Identifies Distinct and Overlapping Features in Children Diagnosed with Autism versus ADHD","tags":["autism","ADHD","EyeTracking"]}
 ---
 
 

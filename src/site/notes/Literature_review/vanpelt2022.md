@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/vanpelt2022/","title":"Dynamic Interactive Social Cognition Training in Virtual Reality (DiSCoVR) for adults with Autism Spectrum Disorder A feasibility study","tags":["Virtual","reality","Autism","spectrum","disorder","Emotion","perception","Social","cognition","training","Social","functioning","Theory","of","mind"]}
+{"dg-publish":true,"permalink":"/literature-review/vanpelt2022/","title":"Dynamic Interactive Social Cognition Training in Virtual Reality (DiSCoVR) for adults with Autism Spectrum Disorder A feasibility study","tags":["VirtualReality","Autism","TheoryofMind"]}
 ---
 
 

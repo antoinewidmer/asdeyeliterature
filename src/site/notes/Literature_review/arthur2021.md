@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/arthur2021/","title":"An examination of active inference in autistic adults using immersive virtual reality","tags":["Autism","spectrum","disorders","Motor","control","Oculomotor","system","Sensorimotor","processing"]}
+{"dg-publish":true,"permalink":"/literature-review/arthur2021/","title":"An examination of active inference in autistic adults using immersive virtual reality","tags":["Autism","Oculomotor","Sensorimotor","virtualreality"]}
 ---
 
 

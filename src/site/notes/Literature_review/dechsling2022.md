@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/dechsling2022/","title":"Virtual and Augmented Reality in Social Skills Interventions for Individuals with Autism Spectrum Disorder A Scoping Review","tags":["Augmented","reality","Virtual","reality","Autism","spectrum","disorder","Social","skills","literRevTSASDXR"]}
+{"dg-publish":true,"permalink":"/literature-review/dechsling2022/","title":"Virtual and Augmented Reality in Social Skills Interventions for Individuals with Autism Spectrum Disorder A Scoping Review","tags":["VirtualReality","Autism","SocialSkills","literRevTSASDXR"]}
 ---
 
 

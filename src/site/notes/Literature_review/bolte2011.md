@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/bolte2011/","title":"Autistic Traits and Autism Spectrum Disorders The Clinical Validity of Two Measures Presuming a Continuum of Social Communication Skills","tags":["Psychometrics","Assessment","Diagnostics","PDD","Screening;","Questionnaire"]}
+{"dg-publish":true,"permalink":"/literature-review/bolte2011/","title":"Autistic Traits and Autism Spectrum Disorders The Clinical Validity of Two Measures Presuming a Continuum of Social Communication Skills","tags":["autism","Psychometrics","Screening;","Questionnaire"]}
 ---
 
 

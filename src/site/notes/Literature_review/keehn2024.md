@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/keehn2024/","title":"Eye-Tracking Biomarkers and Autism Diagnosis in Primary Care","tags":["ASD","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/keehn2024/","title":"Eye-Tracking Biomarkers and Autism Diagnosis in Primary Care","tags":["autism","EyeTracking"]}
 ---
 
 

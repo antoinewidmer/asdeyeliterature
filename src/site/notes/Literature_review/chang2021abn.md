@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/chang2021abn/","title":"Computational Methods to Measure Patterns of Gaze in Toddlers With Autism Spectrum Disorder","tags":["EyeTracking","EyeTracking/Gaze","#toddler","ASD"]}
+{"dg-publish":true,"permalink":"/literature-review/chang2021abn/","title":"Computational Methods to Measure Patterns of Gaze in Toddlers With Autism Spectrum Disorder","tags":["EyeTracking","EyeTracking/Gaze","toddlers","autism"]}
 ---
 
 

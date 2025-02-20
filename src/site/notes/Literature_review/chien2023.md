@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/chien2023/","title":"Game-Based Social Interaction Platform for Cognitive Assessment of Autism Using Eye Tracking","tags":["Face","recognition","Autism","eye","tracking","Gaze","tracking","Emotion","recognition","Games","Biomarkers","autism","spectrum","disorder","serious","games","Pediatrics","Social","interaction","game","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/chien2023/","title":"Game-Based Social Interaction Platform for Cognitive Assessment of Autism Using Eye Tracking","tags":["FaceRecognition","Autism","EyeTracking","Gaze","EmotionRecognition","seriousgames","Pediatrics","Socialinteraction","EyeTracking"]}
 ---
 
 

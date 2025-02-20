@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/kourtesis2023a/","title":"Virtual Reality Training of Social Skills in Adults with Autism Spectrum Disorder An Examination of Acceptability, Usability, User Experience, Social Skills, and Executive Functions","tags":["virtual","reality","training","autism","acceptability","executive","functions","prompts","social","cognition","social","skills","usability","user","experience","TSASDtoread"]}
+{"dg-publish":true,"permalink":"/literature-review/kourtesis2023a/","title":"Virtual Reality Training of Social Skills in Adults with Autism Spectrum Disorder An Examination of Acceptability, Usability, User Experience, Social Skills, and Executive Functions","tags":["VirtualReality","autism","TSASDtoread"]}
 ---
 
 

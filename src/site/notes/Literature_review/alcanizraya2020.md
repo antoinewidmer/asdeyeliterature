@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/alcanizraya2020/","title":"Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality","tags":["virtual","reality","Autism","Spectrum","Disorder","assessment","Electro","dermal","activity","sensorial","dysfunctions"]}
+{"dg-publish":true,"permalink":"/literature-review/alcanizraya2020/","title":"Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality","tags":["virtualreality","Autism","Electrodermal"]}
 ---
 
 

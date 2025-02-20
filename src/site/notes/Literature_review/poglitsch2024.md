@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/poglitsch2024/","title":"XR technologies to enhance the emotional skills of people with autism spectrum disorder A systematic review","tags":["Virtual","reality","Emotion","recognition","Autism","spectrum","disorder","Augmented","reality","Emotional","skills","Extended","reality","literRevTSASDXR"]}
+{"dg-publish":true,"permalink":"/literature-review/poglitsch2024/","title":"XR technologies to enhance the emotional skills of people with autism spectrum disorder A systematic review","tags":["VirtualReality","Emotionrecognition","Autism","literRevTSASDXR"]}
 ---
 
 

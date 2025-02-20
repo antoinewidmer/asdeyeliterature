@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/moon2024a/","title":"Learning experience design of verbal prompts in virtual reality-based training for autistic children","tags":["social","skills","autism","spectrum","disorder","learning","experience","design","verbal","prompts","virtual","world"]}
+{"dg-publish":true,"permalink":"/literature-review/moon2024a/","title":"Learning experience design of verbal prompts in virtual reality-based training for autistic children","tags":["socialskills","autism","virtualreality"]}
 ---
 
 

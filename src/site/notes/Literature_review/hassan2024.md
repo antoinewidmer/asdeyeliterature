@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/hassan2024/","title":"A Machine Learning Approach for Early Prediction of Autism Spectrum Disorder using eXtreme Gradient Boosting and Logistic Regression Framework","tags":["Autism","Standards","Feature","extraction","Predictive","models","Support","vector","machines","autism","spectrum","disorder","Biological","system","modeling","Boosting","early","prediction","extreme","gradient","boosting-logistic","regression","Logistic","regression","Overfitting","recursive","feature","elimination","synthetic","minority","over-sampling","technique","Transfer","learning"]}
+{"dg-publish":true,"permalink":"/literature-review/hassan2024/","title":"A Machine Learning Approach for Early Prediction of Autism Spectrum Disorder using eXtreme Gradient Boosting and Logistic Regression Framework","tags":["Autism","TransferLearning"]}
 ---
 
 

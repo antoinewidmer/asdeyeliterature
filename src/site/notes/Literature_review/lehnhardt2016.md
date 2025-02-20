@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/lehnhardt2016/","title":"Sex-Related Cognitive Profile in Autism Spectrum Disorders Diagnosed Late in Life Implications for the Female Autistic Phenotype","tags":["Autism","spectrum","disorder","Adulthood","Cognitive","profile","Female","autistic","phenotype","Processing","speed"]}
+{"dg-publish":true,"permalink":"/literature-review/lehnhardt2016/","title":"Sex-Related Cognitive Profile in Autism Spectrum Disorders Diagnosed Late in Life Implications for the Female Autistic Phenotype","tags":["Autism","Adulthood","Female","autistic","phenotype"]}
 ---
 
 

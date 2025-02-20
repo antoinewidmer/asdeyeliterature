@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/alcaniz2022/","title":"Eye gaze as a biomarker in the recognition of autism spectrum disorder using virtual reality and machine learning A proof of concept for diagnosis","tags":["virtual","reality","eye","tracking","machine","learning","autism","spectrum","disorder","behavioral","biomarker","multivariate","supervised","learning"]}
+{"dg-publish":true,"permalink":"/literature-review/alcaniz2022/","title":"Eye gaze as a biomarker in the recognition of autism spectrum disorder using virtual reality and machine learning A proof of concept for diagnosis","tags":["VirtualReality","EyeTracking","machine","autism","spectrum","disorder","behavioral","biomarker","multivariate","supervisedlearning"]}
 ---
 
 

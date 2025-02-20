@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/paolucci2023a/","title":"Early prediction of Autism Spectrum Disorders through interaction analysis in home videos and explainable artificial intelligence","tags":["BodyTracking","ASD"]}
+{"dg-publish":true,"permalink":"/literature-review/paolucci2023a/","title":"Early prediction of Autism Spectrum Disorders through interaction analysis in home videos and explainable artificial intelligence","tags":["BodyTracking","autism"]}
 ---
 
 

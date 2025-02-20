@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/mofid-2023/","title":"The Power of Combining Oculometric and Pupillometric Parameters for Autism Screening in Children","tags":["ASD","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/mofid-2023/","title":"The Power of Combining Oculometric and Pupillometric Parameters for Autism Screening in Children","tags":["autism","EyeTracking"]}
 ---
 
 

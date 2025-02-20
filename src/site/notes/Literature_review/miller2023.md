@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/miller2023/","title":"Movement smoothness during dynamic postural control to a static target differs between autistic and neurotypical children","tags":["Virtual","reality","Autism","Postural","control","Movement","Motor","skills","Kinematics"]}
+{"dg-publish":true,"permalink":"/literature-review/miller2023/","title":"Movement smoothness during dynamic postural control to a static target differs between autistic and neurotypical children","tags":["VirtualReality","Autism","bodytracking"]}
 ---
 
 

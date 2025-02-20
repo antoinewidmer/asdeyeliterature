@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/ardalan2019/","title":"Whole-Body Movement during Videogame Play Distinguishes Youth with Autism from Youth with Typical Development","tags":["Autism","spectrum","disorders","Human","behaviour","Motor","control","ASD"]}
+{"dg-publish":true,"permalink":"/literature-review/ardalan2019/","title":"Whole-Body Movement during Videogame Play Distinguishes Youth with Autism from Youth with Typical Development","tags":["Autism","bodytracking"]}
 ---
 
 

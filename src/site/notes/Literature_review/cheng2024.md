@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/cheng2024/","title":"Appearance-based Gaze Estimation With Deep Learning A Review and Benchmark","tags":["Computer","Science","-","Computer","Vision","and","Pattern","Recognition","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/cheng2024/","title":"Appearance-based Gaze Estimation With Deep Learning A Review and Benchmark","tags":["ComputerScience","ComputerVision","PatternRecognition","EyeTracking"]}
 ---
 
 

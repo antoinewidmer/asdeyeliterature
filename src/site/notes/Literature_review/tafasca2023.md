@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/tafasca2023/","title":"ChildPlay A New Benchmark for Understanding Children's Gaze Behaviour","tags":["Computer","Science","-","Computer","Vision","and","Pattern","Recognition","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/tafasca2023/","title":"ChildPlay A New Benchmark for Understanding Children's Gaze Behaviour","tags":["ComputerVision","PatternRecognition","EyeTracking"]}
 ---
 
 

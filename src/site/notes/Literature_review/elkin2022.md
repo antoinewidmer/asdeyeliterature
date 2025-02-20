@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/elkin2022/","title":"Gaze Fixation and Visual Searching Behaviors during an Immersive Virtual Reality Social Skills Training Experience for Children and Youth with Autism Spectrum Disorder A Pilot Study","tags":["virtual","reality","eye","tracking","social","skills","autism","spectrum","disorder","TSASDtoread"]}
+{"dg-publish":true,"permalink":"/literature-review/elkin2022/","title":"Gaze Fixation and Visual Searching Behaviors during an Immersive Virtual Reality Social Skills Training Experience for Children and Youth with Autism Spectrum Disorder A Pilot Study","tags":["VirtualReality","EyeTracking","socialskills","autism","TSASDtoread"]}
 ---
 
 

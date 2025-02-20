@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/gallagher2022/","title":"Autism spectrum disorders current issues and future directions","tags":["Autism","spectrum","disorders","clinical","services","mental","health","research","stratification"]}
+{"dg-publish":true,"permalink":"/literature-review/gallagher2022/","title":"Autism spectrum disorders current issues and future directions","tags":["Autism","stratification"]}
 ---
 
 

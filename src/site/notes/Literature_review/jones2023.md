@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/jones2023/","title":"Eye-Tracking–Based Measurement of Social Visual Engagement Compared With Expert Clinical Diagnosis of Autism","tags":["EyeTracking","ASD"]}
+{"dg-publish":true,"permalink":"/literature-review/jones2023/","title":"Eye-Tracking–Based Measurement of Social Visual Engagement Compared With Expert Clinical Diagnosis of Autism","tags":["EyeTracking","autism"]}
 ---
 
 

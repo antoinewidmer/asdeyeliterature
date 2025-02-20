@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/cabibihan2016/","title":"Sensing Technologies for Autism Spectrum Disorder Screening and Intervention","tags":["Autism","Spectrum","Disorder","Electrodermal","Activity","Monitors","Eye","Trackers","Movement","Trackers","Prosody","And","Speech","Detectors","Sleep","Quality","Assessment","Social","Robotics","Tactile","Sensing"]}
+{"dg-publish":true,"permalink":"/literature-review/cabibihan2016/","title":"Sensing Technologies for Autism Spectrum Disorder Screening and Intervention","tags":["Autism","Electrodermal","EyeTracking","Movement","Prosody","Speech","Tactile","Sensing"]}
 ---
 
 

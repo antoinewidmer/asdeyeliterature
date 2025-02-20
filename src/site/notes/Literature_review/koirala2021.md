@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/koirala2021/","title":"A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder","tags":["virtual","reality","Three-dimensional","displays","Autism","spectrum","disorder","Visualization","Games","Variable","speed","drives","Painting","Robot","sensing","systems","Sensitivity","sensory","assessment"]}
+{"dg-publish":true,"permalink":"/literature-review/koirala2021/","title":"A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder","tags":["virtualreality","Autism","Painting","Robot"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/varma2022/","title":"Identification of Social Engagement Indicators Associated With Autism Spectrum Disorder Using a Game-Based Mobile App Comparative Study of Gaze Fixation and Visual Scanning Methods","tags":["Autism","Spectrum","Disorder","autism","gaze","Child","Humans","autism","spectrum","disorder","app","computer","vision","Computers","Handheld","diagnostic","engagement","Fixation","Ocular","gaming","insight","Mobile","Applications","mobile","diagnostics","mobile","health","pattern","pattern","recognition","Social","Participation","social","phenotyping","video","vision","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/varma2022/","title":"Identification of Social Engagement Indicators Associated With Autism Spectrum Disorder Using a Game-Based Mobile App Comparative Study of Gaze Fixation and Visual Scanning Methods","tags":["Autism","gaze","Child","computervision","EyeTracking"]}
 ---
 
 

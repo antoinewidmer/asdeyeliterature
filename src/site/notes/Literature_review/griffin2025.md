@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/griffin2025/","title":"Spatiotemporal Eye Movement Dynamics Reveal Altered Face Prioritization in Early Visual Processing Among Autistic Children","tags":["Eye","tracking","Autism","spectrum","disorder","HMM","Markov","models","Visual","attention","Visual","search","EyeTracking","ASD"]}
+{"dg-publish":true,"permalink":"/literature-review/griffin2025/","title":"Spatiotemporal Eye Movement Dynamics Reveal Altered Face Prioritization in Early Visual Processing Among Autistic Children","tags":["EyeTracking","Autism"]}
 ---
 
 

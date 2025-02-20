@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/moon2024b/","title":"Effects of Adaptive Prompts in Virtual Reality-Based Social Skills Training for Children with Autism","tags":["Autism","spectrum","disorder","Adaptivity","design","Educational","data","mining","Learning","analytics","Verbal","prompt","Virtual","reality-based","training"]}
+{"dg-publish":true,"permalink":"/literature-review/moon2024b/","title":"Effects of Adaptive Prompts in Virtual Reality-Based Social Skills Training for Children with Autism","tags":["Autism","VirtualReality"]}
 ---
 
 

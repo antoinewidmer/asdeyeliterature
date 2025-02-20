@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/fears2023/","title":"Autistic Children Use Less Efficient Goal-Directed Whole Body Movements Compared to Neurotypical Development","tags":["Virtual","reality","Autism","spectrum","disorder","Neurodevelopmental","Disorders","Postural","control","Movement","Motor","skills","Balance","Kinematics"]}
+{"dg-publish":true,"permalink":"/literature-review/fears2023/","title":"Autistic Children Use Less Efficient Goal-Directed Whole Body Movements Compared to Neurotypical Development","tags":["VirtualReality","Autism","BodyTracking"]}
 ---
 
 

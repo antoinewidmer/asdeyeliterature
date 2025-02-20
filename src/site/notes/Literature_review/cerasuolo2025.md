@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/cerasuolo2025/","title":"The Potential of Virtual Reality to Improve Diagnostic Assessment by Boosting Autism Spectrum Disorder Traits A Systematic Review","tags":["Virtual","reality","Machine","learning","Autism","spectrum","disorder","Diagnosis","Assessment"]}
+{"dg-publish":true,"permalink":"/literature-review/cerasuolo2025/","title":"The Potential of Virtual Reality to Improve Diagnostic Assessment by Boosting Autism Spectrum Disorder Traits A Systematic Review","tags":["VirtualReality","ML","Autism","Diagnosis","Assessment"]}
 ---
 
 

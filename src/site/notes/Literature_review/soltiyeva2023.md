@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/soltiyeva2023/","title":"My Lovely Granny’s Farm An immersive virtual reality training system for children with autism spectrum disorder","tags":["Virtual","reality","Autism","spectrum","disorder","Communicational","skills","Digital","Education","and","Educational","Technology","Immersive","systems","Social","interaction"]}
+{"dg-publish":true,"permalink":"/literature-review/soltiyeva2023/","title":"My Lovely Granny’s Farm An immersive virtual reality training system for children with autism spectrum disorder","tags":["VirtualReality","AutismSpectrum"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/robles2022/","title":"A Virtual Reality Based System for the Screening and Classification of Autism","tags":["Virtual","reality","Machine","learning","Autism","autism","Three-dimensional","displays","machine","learning","Virtual","environments","Avatars","diagnosis","Reliability","embodiment","agents","Tutorials"]}
+{"dg-publish":true,"permalink":"/literature-review/robles2022/","title":"A Virtual Reality Based System for the Screening and Classification of Autism","tags":["VirtualReality","Autism","ML","Avatars","diagnosis"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/minissi2024/","title":"Biosignal comparison for autism assessment using machine learning models and virtual reality","tags":["Virtual","reality","Autism","spectrum","disorder","Eye","movements","Biosignal","Motor","skills","Statistical","machine","learning"]}
+{"dg-publish":true,"permalink":"/literature-review/minissi2024/","title":"Biosignal comparison for autism assessment using machine learning models and virtual reality","tags":["Virtualreality","Autism","EyeTracking","movements"]}
 ---
 
 

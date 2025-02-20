@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/journal2024/","title":"Phenotyping variability in early socio-communicative skills in young children with autism and its influence on later development","tags":["autism","spectrum","disorders","joint","attention","cluster","analysis","deep","phenotyping","nonverbal","communication","phenotype","trajectories"]}
+{"dg-publish":true,"permalink":"/literature-review/journal2024/","title":"Phenotyping variability in early socio-communicative skills in young children with autism and its influence on later development","tags":["autism","jointattention","nonverbal"]}
 ---
 
 

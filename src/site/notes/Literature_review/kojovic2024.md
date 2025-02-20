@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/kojovic2024/","title":"Unraveling the developmental dynamic of visual exploration of social interactions in autism","tags":["eye-tracking","autism","spectrum","disorders","developmental","trajectories","divergence","longitudinal","prediction","of","symptomatology","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/kojovic2024/","title":"Unraveling the developmental dynamic of visual exploration of social interactions in autism","tags":["autism","EyeTracking"]}
 ---
 
 

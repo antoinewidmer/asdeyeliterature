@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/bourson2024/","title":"Characteristics of restricted interests in girls with ASD compared to boys a systematic review of the literature","tags":["Diagnosis","Autistic","spectrum","disorder","Circumscribed","interests","Girl","Restricted","interests","Women"]}
+{"dg-publish":true,"permalink":"/literature-review/bourson2024/","title":"Characteristics of restricted interests in girls with ASD compared to boys a systematic review of the literature","tags":["Diagnosis","Autism","female"]}
 ---
 
 

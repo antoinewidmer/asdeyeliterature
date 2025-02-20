@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/forbes2025/","title":"Oculomotor Function in Children and Adolescents with Autism, ADHD or Co-occurring Autism and ADHD","tags":["Autism","ADHD","Endophenotype","Neurodevelopment","Oculomotor","Control","obsidian","EyeTracking","ASD"]}
+{"dg-publish":true,"permalink":"/literature-review/forbes2025/","title":"Oculomotor Function in Children and Adolescents with Autism, ADHD or Co-occurring Autism and ADHD","tags":["Autism","ADHD","Endophenotype","Neurodevelopment","Oculomotor","EyeTracking"]}
 ---
 
 

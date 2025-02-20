@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/nabil2021/","title":"Applying machine learning on home videos for remote autism diagnosis Further study and analysis","tags":["Autism","Spectrum","Disorder","autism","screening","machine","learning","Autistic","Disorder","Humans","Machine","Learning","diagnosis","Early","Diagnosis","feature","selection","Support","Vector","Machine","BodyTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/nabil2021/","title":"Applying machine learning on home videos for remote autism diagnosis Further study and analysis","tags":["Autism","BodyTracking"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/bouchouras2025/","title":"Integrating Artificial Intelligence, Internet of Things, and Sensor-Based Technologies A Systematic Review of Methodologies in Autism Spectrum Disorder Detection","tags":["artificial","intelligence","autism","spectrum","disorder","Internet","of","Things","non-invasive","diagnostics","sensor-based","technologies"]}
+{"dg-publish":true,"permalink":"/literature-review/bouchouras2025/","title":"Integrating Artificial Intelligence, Internet of Things, and Sensor-Based Technologies A Systematic Review of Methodologies in Autism Spectrum Disorder Detection","tags":["AI","autism","spectrum","disorder","IoT"]}
 ---
 
 

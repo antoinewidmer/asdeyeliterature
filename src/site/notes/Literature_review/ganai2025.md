@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/ganai2025/","title":"Early detection of autism spectrum disorder gait deviations and machine learning","tags":["Human","behaviour","Psychology","#mediapipe"]}
+{"dg-publish":true,"permalink":"/literature-review/ganai2025/","title":"Early detection of autism spectrum disorder gait deviations and machine learning","tags":["Human","behaviour","Psychology","mediapipe"]}
 ---
 
 
