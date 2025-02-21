@@ -6,6 +6,9 @@
 
 source: [Table 1 | From Symptomatology to Functioning - Applying the ICF to Autism Measures to Facilitate Neurodiversity-Affirmative Data Harmonization | Journal of Autism and Developmental Disorders](https://link.springer.com/article/10.1007/s10803-023-06204-2/tables/1)
 
+List of all tests with questions in an excel format:
+[Supplemental data file for: A Conceptual Framework for Data Harmonization in Mental Health Using the International Classification of Functioning Disability and Health (ICF): An Example with the R2D2-MH Consortium.](https://figshare.com/articles/dataset/Supplemental_data_file_for_A_Conceptual_Framework_for_Data_Harmonization_in_Mental_Health_Using_the_International_Classification_of_Functioning_Disability_and_Health_ICF_An_Example_with_the_R2D2-MH_Consortium/26405335/2?file=52153871)
+
 | Measure | Type | Rater | Ages | Scoring | Screening |
 |---------|------|-------|------|---------|-----------|
 | **Autism Behavior Checklist** (Krug et al., 1980) | Rating | Caregiver or teacher | Children > 3 years | 57 items rated with a weighted score (1–4). Organized across five domains: Sensory, relating, body concept, language, social, and self-help. Higher scores indicate greater autistic-like traits. Suggested cut-offs: <47 typical, 47–53 inconclusive, 54–67 moderate, ≥68 indicative of autism. | ✔ |
