@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/ochoa-lubinoff2023/","title":"Autism in Women","tags":["Autism","spectrum","disorder","Male","bias","Female","autism","Sex","differences"]}
+{"dg-publish":true,"permalink":"/literature-review/ochoa-lubinoff2023/","title":"Autism in Women","tags":["Autism","Male","bias","Female","Sex"]}
 ---
 
 

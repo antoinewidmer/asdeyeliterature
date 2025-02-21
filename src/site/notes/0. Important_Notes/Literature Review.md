@@ -22,6 +22,7 @@
 - [[GeneralNotes/Using VR for ASD detection\|Using VR for ASD detection]]
 - [[GeneralNotes/ASD Classification\|ASD Classification]]
 - [[GeneralNotes/Screening and diagnostic measures for ASD\|Screening and diagnostic measures for ASD]]
+[[AutismResearch/researchgroups/00. Summary\|00. Summary]]
 
 
 ### Research groups and projects

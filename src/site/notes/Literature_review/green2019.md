@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/green2019/","title":"Women and Autism Spectrum Disorder Diagnosis and Implications for Treatment of Adolescents and Adults","tags":["Autism","spectrum","disorder","Female","Women","Adults"]}
+{"dg-publish":true,"permalink":"/literature-review/green2019/","title":"Women and Autism Spectrum Disorder Diagnosis and Implications for Treatment of Adolescents and Adults","tags":["Autism","Female"]}
 ---
 
 

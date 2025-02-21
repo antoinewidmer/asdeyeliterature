@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/debelen2024/","title":"Using visual attention estimation on videos for automated prediction of autism spectrum disorder and symptom severity in preschool children","tags":["Autism","Spectrum","Disorder","Humans","Algorithms","Child","Preschool","Machine","Learning","ROC","Curve","Videotape","Recording","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/debelen2024/","title":"Using visual attention estimation on videos for automated prediction of autism spectrum disorder and symptom severity in preschool children","tags":["Autism","EyeTracking","BodyTracking"]}
 ---
 
 

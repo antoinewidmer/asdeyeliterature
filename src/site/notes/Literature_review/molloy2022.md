@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/molloy2022/","title":"Can stratification biomarkers address the heterogeneity of autism spectrum disorder?","tags":["autism","Autism","spectrum","disorder","biomarkers","stratification"]}
+{"dg-publish":true,"permalink":"/literature-review/molloy2022/","title":"Can stratification biomarkers address the heterogeneity of autism spectrum disorder?","tags":["autism","biomarkers","stratification"]}
 ---
 
 

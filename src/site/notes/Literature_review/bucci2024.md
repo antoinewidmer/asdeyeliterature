@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/bucci2024/","title":"Eye Movements and Postural Control in Children Biomarkers of Neurodevelopmental Disorders Evidences Toward New Forms of Therapeutic Intervention","tags":["Children","Neurodevelopmental","Disorders","Cerebellum","movements","Frontal","filed","Neurodevelopment","disorders","Postural","control","EyeTracking"]}
+{"dg-publish":true,"permalink":"/literature-review/bucci2024/","title":"Eye Movements and Postural Control in Children Biomarkers of Neurodevelopmental Disorders Evidences Toward New Forms of Therapeutic Intervention","tags":["Children","Neurodevelopmental","movements","Postural","EyeTracking","BodyTracking"]}
 ---
 
 

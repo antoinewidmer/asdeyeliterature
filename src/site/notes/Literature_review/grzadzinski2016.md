@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/grzadzinski2016/","title":"Measuring Changes in Social Communication Behaviors Preliminary Development of the Brief Observation of Social Communication Change (BOSCC)","tags":["Autism","AutismSpectrum","disorder","Social","communication","Diagnostic","Observation","Preschoolers","RRB","Toddlers","stratification"]}
+{"dg-publish":true,"permalink":"/literature-review/grzadzinski2016/","title":"Measuring Changes in Social Communication Behaviors Preliminary Development of the Brief Observation of Social Communication Change (BOSCC)","tags":["Autism","Diagnostic","Preschoolers","RRB","Toddlers","stratification"]}
 ---
 
 

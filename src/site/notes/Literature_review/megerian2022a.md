@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/megerian2022a/","title":"Evaluation of an artificial intelligence-based medical device for diagnosis of autism spectrum disorder","tags":["Machine","learning","Autism","spectrum","disorders","Diagnosis","Paediatric","research"]}
+{"dg-publish":true,"permalink":"/literature-review/megerian2022a/","title":"Evaluation of an artificial intelligence-based medical device for diagnosis of autism spectrum disorder","tags":["learning","Autism","Diagnosis","Paediatric"]}
 ---
 
 

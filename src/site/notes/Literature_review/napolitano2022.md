@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/napolitano2022/","title":"Sex Differences in Autism Spectrum Disorder Diagnostic, Neurobiological, and Behavioral Features","tags":["autism","Animal","Models","gender","imaging","Neurobiological","mechanism"]}
+{"dg-publish":true,"permalink":"/literature-review/napolitano2022/","title":"Sex Differences in Autism Spectrum Disorder Diagnostic, Neurobiological, and Behavioral Features","tags":["autism","gender","Female"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature-review/edwards2024a/","title":"Research Review A systematic review and meta-analysis of sex differences in narrow constructs of restricted and repetitive behaviours and interests in autistic children, adolescents, and adults","tags":["Autism","Gender","Female","GenderDifferences","meta-analysis","RRB","sex","differences","systematic","review"]}
+{"dg-publish":true,"permalink":"/literature-review/edwards2024a/","title":"Research Review A systematic review and meta-analysis of sex differences in narrow constructs of restricted and repetitive behaviours and interests in autistic children, adolescents, and adults","tags":["Autism","Gender","Female","GenderDifferences","RRB","sex","review"]}
 ---
 
 
