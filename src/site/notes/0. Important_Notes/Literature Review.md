@@ -21,6 +21,7 @@
 - [[GeneralNotes/Stratification of ASD phenotypes\|Stratification of ASD phenotypes]]
 - [[GeneralNotes/Using VR for ASD detection\|Using VR for ASD detection]]
 - [[GeneralNotes/nomenclature\|nomenclature]]
+- [[GeneralNotes/Screening and diagnostic measures for ASD\|Screening and diagnostic measures for ASD]]
 
 
 ### other research groups
