@@ -20,19 +20,14 @@
 - [[GeneralNotes/Training skills for ASD in XR\|Training skills for ASD in XR]]
 - [[GeneralNotes/Stratification of ASD phenotypes\|Stratification of ASD phenotypes]]
 - [[GeneralNotes/Using VR for ASD detection\|Using VR for ASD detection]]
-- [[GeneralNotes/nomenclature\|nomenclature]]
+- [[GeneralNotes/ASD Classification\|ASD Classification]]
 - [[GeneralNotes/Screening and diagnostic measures for ASD\|Screening and diagnostic measures for ASD]]
 
 
-### other research groups
+### Research groups and projects
 
-- [[GeneralNotes/Autism research - Introduction\|Autism research - Introduction]]
-- [[GeneralNotes/Autism research - Duke\|Autism research - Duke]]
-- [[GeneralNotes/Autism research - IDIAP\|Autism research - IDIAP]]
-- [[GeneralNotes/Autism research - UNIGE\|Autism research - UNIGE]]
-- [[GeneralNotes/Autism research - UCLA\|Autism research - UCLA]]
-- [[GeneralNotes/Autism research - Cambridge\|Autism research - Cambridge]]
-- [[GeneralNotes/Autism research - KIND\|Autism research - KIND]]
+- [[AutismResearch/00 Research groups\|00 Research groups]]
+- [[AutismResearch/01 Research projects\|01 Research projects]]
 
 
 
