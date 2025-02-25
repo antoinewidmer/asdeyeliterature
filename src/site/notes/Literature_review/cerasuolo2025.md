@@ -33,8 +33,8 @@
 
 | File                                                                 | file.name           |
 | -------------------------------------------------------------------- | ------------------- |
-| [[NotesConnectToPapers/cerasuolo2025_table\|cerasuolo2025_table]] | cerasuolo2025_table |
 | [[NotesConnectToPapers/cerasuolo2025_notes\|cerasuolo2025_notes]] | cerasuolo2025_notes |
+| [[NotesConnectToPapers/cerasuolo2025_table\|cerasuolo2025_table]] | cerasuolo2025_table |
 
 { .block-language-dataview}
 

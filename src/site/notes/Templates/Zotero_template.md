@@ -22,6 +22,7 @@
 > **Pages**:: {{pages}} {%- endif %}{%- if DOI %}  
 > **DOI**:: {{DOI}} {%- endif %}{%- if ISBN %}  
 > **ISBN**:: {{ISBN}} {%- endif %}    
+> **dateAdded**:: {{dateAdded | format("YYYY-MM-DD HH:mm")}}
 
 > [!LINK] 
 > {{pdfZoteroLink}}

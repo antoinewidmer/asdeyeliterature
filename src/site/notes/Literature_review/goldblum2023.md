@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/literature-review/goldblum2023/","title":"THE TODDLER REMOTE ASSESSMENT OF VIRTUAL EYE TRACKING AND LANGUAGE (TRAVEL) STUDY AN EYE TRACKING AND BEHAVIORAL ASSESSMENT OF JOINT ATTENTION AT HOME"}
+---
+
+
+## THE TODDLER REMOTE ASSESSMENT OF VIRTUAL EYE TRACKING AND LANGUAGE (TRAVEL) STUDY: AN EYE TRACKING AND BEHAVIORAL ASSESSMENT OF JOINT ATTENTION AT HOME
+
+> [!Cite]
+> Goldblum. (2023). _THE TODDLER REMOTE ASSESSMENT OF VIRTUAL EYE TRACKING AND LANGUAGE (TRAVEL) STUDY: AN EYE TRACKING AND BEHAVIORAL ASSESSMENT OF JOINT ATTENTION AT HOME_ (UNC-Chapel Hill).
+
+
+>[!md]
+> **Year**:: 2023   
+> **Citekey**:: goldblum2023  
+> **itemType**:: book    
+> **dateAdded**:: 2025-02-24 20:55
+
+> [!LINK] 
+> [Goldblum_THE TODDLER REMOTE ASSESSMENT OF VIRTUAL EYE TRACKING AND LANGUAGE (TRAVEL) STUDY AN EYE TRACKING A.pdf](zotero://select/library/items/K9RSJ5G6)
+
+> [!Abstract]
+>.
+> 
+
+
+## Notes
+
+| File | file.name |
+| ---- | --------- |
+
+{ .block-language-dataview}
+
+
+
+## Figures
+
