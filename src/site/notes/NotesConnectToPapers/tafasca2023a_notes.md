@@ -4,7 +4,7 @@
 
 # The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification
 
-[[Literature_review/tafasca2023a\|tafasca2023a]]
+[[Literature_review/@tafasca2023a\|@tafasca2023a]]
 
 ## Summary
 

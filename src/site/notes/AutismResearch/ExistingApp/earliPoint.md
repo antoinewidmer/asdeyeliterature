@@ -6,10 +6,10 @@
 
 ## publications
 
-| File                                            | title                                                                                                                                | published | journal           | Paper_type     | DOI                                                                                                                 |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [[Literature_review/jones2023\|jones2023]]   | Eye-Tracking–Based Measurement of Social Visual Engagement Compared With Expert Clinical Diagnosis of Autism                         | 2023      | JAMA              | \-             | https://www.doi.org/10.1001/jama.2023.13295                                                                         |
-| [[Literature_review/jones2023b\|jones2023b]] | Development and Replication of Objective Measurements of Social Visual Engagement to Aid in Early Diagnosis and Assessment of Autism | 2023      | JAMA Network Open | journalArticle | <ul><li>https://www.doi.org/10.1001/jamanetworkopen.2023.30145</li><li>10.1001/jamanetworkopen.2023.30145</li></ul> |
+| File                                              | title                                                                                                                                | published | journal           | Paper_type     | DOI                                                                                                                 |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [[Literature_review/@jones2023\|@jones2023]]   | Eye-Tracking–Based Measurement of Social Visual Engagement Compared With Expert Clinical Diagnosis of Autism                         | 2023      | JAMA              | \-             | https://www.doi.org/10.1001/jama.2023.13295                                                                         |
+| [[Literature_review/@jones2023b\|@jones2023b]] | Development and Replication of Objective Measurements of Social Visual Engagement to Aid in Early Diagnosis and Assessment of Autism | 2023      | JAMA Network Open | journalArticle | <ul><li>https://www.doi.org/10.1001/jamanetworkopen.2023.30145</li><li>10.1001/jamanetworkopen.2023.30145</li></ul> |
 
 { .block-language-dataview}
 

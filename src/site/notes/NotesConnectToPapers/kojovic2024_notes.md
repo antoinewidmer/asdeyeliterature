@@ -5,7 +5,7 @@
 
 # Unraveling the developmental dynamic of visual exploration of social interactions in autism
 
-[[Literature_review/kojovic2024\|kojovic2024]]
+[[Literature_review/@kojovic2024\|@kojovic2024]]
 
 ## 📌 Summary
 

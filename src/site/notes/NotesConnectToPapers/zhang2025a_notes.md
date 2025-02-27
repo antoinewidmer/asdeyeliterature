@@ -6,7 +6,7 @@
 
 # Exploring Eye-tracking based Biomarkers to Assess Cognitive Abilities in Autistic Children: A Feasibility Study
 
-[[Literature_review/zhang2025a\|zhang2025a]]
+[[Literature_review/@zhang2025a\|@zhang2025a]]
 
 ## 📌 Summary
 

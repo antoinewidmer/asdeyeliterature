@@ -5,7 +5,7 @@
 
 ## Zotero link
 
-[[Literature_review/ganai2025\|ganai2025]]
+[[Literature_review/@ganai2025\|@ganai2025]]
 ## 📌 Summary
 
 This study explores the potential of gait deviations as an early biomarker for Autism Spectrum Disorder (ASD). By utilizing a single RGB camera and pose estimation technology (MediaPipe), the study analyzed gait patterns in children with ASD and typically developing (TD) children. The results indicated that children with ASD exhibit shorter step lengths, reduced right elbow angles, and increased right shoulder angles. Four machine learning (ML) models were tested to classify ASD based on gait parameters, with **binomial logistic regression achieving the highest accuracy (82%)**. The findings highlight the feasibility of using gait analysis and ML techniques for early ASD detection.

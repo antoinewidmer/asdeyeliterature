@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-connect-to-papers/chetcuti2024-notes/"}
 ---
 
-[[Literature_review/chetcuti2024\|chetcuti2024]]
+[[Literature_review/@chetcuti2024\|@chetcuti2024]]
 
 
 ## 📌 Summary

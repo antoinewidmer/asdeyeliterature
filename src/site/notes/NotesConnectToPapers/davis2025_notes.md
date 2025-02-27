@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-connect-to-papers/davis2025-notes/"}
 ---
 
-[[Literature_review/davis2025\|davis2025]]
+[[Literature_review/@davis2025\|@davis2025]]
 ## 📌 Summary
 
 - The study investigates early **behavioral characteristics** in toddlers who were later diagnosed with **autism (ASD), ADHD symptoms, or both**.

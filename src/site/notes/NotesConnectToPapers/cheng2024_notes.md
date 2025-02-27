@@ -4,7 +4,7 @@
 
 ## Zotero note
 
-[[Literature_review/cheng2024\|cheng2024]]
+[[Literature_review/@cheng2024\|@cheng2024]]
 
 ### Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark
 

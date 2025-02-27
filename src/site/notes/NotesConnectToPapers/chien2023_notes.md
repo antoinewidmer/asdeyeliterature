@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-connect-to-papers/chien2023-notes/"}
 ---
 
-[[Literature_review/chien2023\|chien2023]]
+[[Literature_review/@chien2023\|@chien2023]]
 
 ## 📌 **Summary**
 

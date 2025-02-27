@@ -5,7 +5,7 @@
 
 ## Early detection of autism using digital behavioral phenotyping
 
-[[Literature_review/perochon2023a\|perochon2023a]]
+[[Literature_review/@perochon2023a\|@perochon2023a]]
 
 ## 📌 Summary
 

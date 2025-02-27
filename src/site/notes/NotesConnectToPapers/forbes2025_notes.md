@@ -3,7 +3,7 @@
 ---
 
 
-[[Literature_review/forbes2025\|forbes2025]]
+[[Literature_review/@forbes2025\|@forbes2025]]
 
 
 ## 📌 Summary
